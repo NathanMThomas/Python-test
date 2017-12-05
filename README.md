@@ -28,3 +28,6 @@ git commit - m ""
 
 git push
     - This pushes the changed files to the repository
+
+git rm
+    - Remove files from the working tree and from the index
